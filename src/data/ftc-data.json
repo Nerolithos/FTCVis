@@ -1,0 +1,316 @@
+{
+  "brand": {
+    "yellow": "#F0C868",
+    "cyan": "#58C0B8",
+    "ink": "#171A24"
+  },
+  "meta": {
+    "buildingName": "外滩FTC",
+    "address": "上海市黄浦区九江路69号",
+    "totalArea": "5200㎡+",
+    "floors": 7,
+    "generatedFrom": "info.xlsx"
+  },
+  "floors": [
+    {
+      "floor": "外滩FTC-2层",
+      "label": "2层",
+      "rooms": [
+        {
+          "id": "外滩FTC-2层-M-0201-5",
+          "row": 5,
+          "name": "M-0201",
+          "capacity": "16",
+          "price": "180",
+          "screen": "视频会议系统，\n86寸高清智能触屏*1，\n联动智能白板",
+          "audio": "-",
+          "layout": "会议桌不可移动，\n可增加座椅，\n上限容纳25人",
+          "area": null,
+          "image": "/assets/rooms/r05-M-0201.png"
+        },
+        {
+          "id": "外滩FTC-2层-M-0203-6",
+          "row": 6,
+          "name": "M-0203",
+          "capacity": "16",
+          "price": "180",
+          "screen": "视频会议系统，\n86寸高清智能MAXHUB触屏*1",
+          "audio": "MAXHUB 全向麦，全域会议拾音系统，支持多语种实时翻译（付费）",
+          "layout": "会议桌不可移动，\n可增加座椅，\n上限容纳30人",
+          "area": null,
+          "image": "/assets/rooms/r06-M-0203.png"
+        },
+        {
+          "id": "外滩FTC-2层-202-路演中心-21",
+          "row": 21,
+          "name": "202-路演中心",
+          "capacity": null,
+          "price": "16000",
+          "screen": "中庭主屏（5760mm*2240mm）*1，\n中庭副屏（3200mm*1760mm）*1",
+          "audio": "鹅颈麦*8，\n会议音响*4",
+          "layout": "支持桌椅自由摆放，\n标准容纳50人，\n上限容纳100人（有椅无桌）",
+          "area": "137㎡",
+          "image": "/assets/rooms/r21-202-路演中心.png"
+        }
+      ]
+    },
+    {
+      "floor": "外滩FTC-3层",
+      "label": "3层",
+      "rooms": [
+        {
+          "id": "外滩FTC-3层-M-0301-7",
+          "row": 7,
+          "name": "M-0301",
+          "capacity": "6",
+          "price": "120",
+          "screen": "-",
+          "audio": "-",
+          "layout": "会议桌不可移动，\n不可增加座椅，",
+          "area": null,
+          "image": "/assets/rooms/r07-M-0301.png"
+        },
+        {
+          "id": "外滩FTC-3层-胶囊会议室-8",
+          "row": 8,
+          "name": "胶囊会议室",
+          "capacity": "2",
+          "price": "120",
+          "screen": "隔音结构，WIFI覆盖",
+          "audio": "-",
+          "layout": "支持1-2人电话/视频会议等",
+          "area": null,
+          "image": "/assets/rooms/r08-胶囊会议室.png"
+        },
+        {
+          "id": "外滩FTC-3层-零碳直播间-22",
+          "row": 22,
+          "name": "零碳直播间",
+          "capacity": "-",
+          "price": "2000",
+          "screen": "960株高固碳能力植物组成半圆形光合幕墙",
+          "audio": "-",
+          "layout": "座椅不可移动，\n上限容纳6人",
+          "area": null,
+          "image": "/assets/rooms/r22-零碳直播间.png"
+        }
+      ]
+    },
+    {
+      "floor": "外滩FTC-4层",
+      "label": "4层",
+      "rooms": [
+        {
+          "id": "外滩FTC-4层-M-0402-9",
+          "row": 9,
+          "name": "M-0402",
+          "capacity": "8",
+          "price": "144",
+          "screen": "视频会议系统，\n65寸高清智能触屏*1",
+          "audio": "-",
+          "layout": "会议桌不可移动，\n可增加座椅，\n上限容纳11人",
+          "area": null,
+          "image": "/assets/rooms/r09-M-0402.png"
+        },
+        {
+          "id": "外滩FTC-4层-M-0403-10",
+          "row": 10,
+          "name": "M-0403",
+          "capacity": "8",
+          "price": "144",
+          "screen": "视频会议系统，\n65寸高清智能触屏*2",
+          "audio": "-",
+          "layout": "会议桌不可移动，\n可增加座椅，\n上限容纳11人",
+          "area": null,
+          "image": "/assets/rooms/r10-M-0403.png"
+        },
+        {
+          "id": "外滩FTC-4层-胶囊会议室-11",
+          "row": 11,
+          "name": "胶囊会议室",
+          "capacity": "2",
+          "price": "120",
+          "screen": "隔音结构，WIFI覆盖",
+          "audio": "-",
+          "layout": "支持1-2人电话/视频会议等",
+          "area": null,
+          "image": "/assets/rooms/r11-胶囊会议室.png"
+        },
+        {
+          "id": "外滩FTC-4层-胶囊直播间-23",
+          "row": 23,
+          "name": "胶囊直播间",
+          "capacity": "-",
+          "price": "800",
+          "screen": "隔音结构，WIFI覆盖",
+          "audio": "-",
+          "layout": "支持单人电话会议、手机直播等",
+          "area": null,
+          "image": "/assets/rooms/r23-胶囊直播间.png"
+        }
+      ]
+    },
+    {
+      "floor": "外滩FTC-5层",
+      "label": "5层",
+      "rooms": [
+        {
+          "id": "外滩FTC-5层-M-0503-12",
+          "row": 12,
+          "name": "M-0503",
+          "capacity": "8",
+          "price": "144",
+          "screen": "视频会议系统，\n50寸高清智能触屏*1",
+          "audio": "-",
+          "layout": "会议桌不可移动，\n可增加座椅，\n上限容纳11人",
+          "area": null,
+          "image": "/assets/rooms/r12-M-0503.png"
+        },
+        {
+          "id": "外滩FTC-5层-M-0505-13",
+          "row": 13,
+          "name": "M-0505",
+          "capacity": "8",
+          "price": "144",
+          "screen": "视频会议系统，\n50寸高清智能触屏*1",
+          "audio": "-",
+          "layout": "会议桌不可移动，\n可增加座椅，\n上限容纳11人",
+          "area": null,
+          "image": "/assets/rooms/r13-M-0505.png"
+        },
+        {
+          "id": "外滩FTC-5层-胶囊会议室-14",
+          "row": 14,
+          "name": "胶囊会议室",
+          "capacity": "2",
+          "price": "120",
+          "screen": "隔音结构，WIFI覆盖",
+          "audio": "-",
+          "layout": "支持1-2人电话/视频会议等",
+          "area": null,
+          "image": "/assets/rooms/r14-胶囊会议室.png"
+        },
+        {
+          "id": "外滩FTC-5层-胶囊直播间-24",
+          "row": 24,
+          "name": "胶囊直播间",
+          "capacity": "-",
+          "price": "800",
+          "screen": "隔音结构，WIFI覆盖",
+          "audio": "-",
+          "layout": "支持单人电话会议、手机直播等",
+          "area": null,
+          "image": "/assets/rooms/r24-胶囊直播间.png"
+        }
+      ]
+    },
+    {
+      "floor": "外滩FTC-6层",
+      "label": "6层",
+      "rooms": [
+        {
+          "id": "外滩FTC-6层-M-0606-15",
+          "row": 15,
+          "name": "M-0606",
+          "capacity": "14",
+          "price": "144",
+          "screen": "视频会议系统，\n65寸高清智能触屏*1",
+          "audio": "-",
+          "layout": "会议桌不可移动，\n可增加座椅，\n上限容纳25人",
+          "area": null,
+          "image": "/assets/rooms/r15-M-0606.png"
+        },
+        {
+          "id": "外滩FTC-6层-M-0607-16",
+          "row": 16,
+          "name": "M-0607",
+          "capacity": "12",
+          "price": "180",
+          "screen": "视频会议系统，\n86寸高清智能触屏*1",
+          "audio": "-",
+          "layout": "会议桌不可移动，\n可增加座椅，\n上限容纳30人",
+          "area": null,
+          "image": "/assets/rooms/r16-M-0607.png"
+        },
+        {
+          "id": "外滩FTC-6层-多功能厅-25",
+          "row": 25,
+          "name": "多功能厅",
+          "capacity": null,
+          "price": "6400",
+          "screen": "中庭主屏（3840mm*2240mm）*1，\n左折屏（2080mm*960mm）*1，\n右折屏（2080mm*960mm）*1\n（两折屏同步）",
+          "audio": "无线手持话筒*2，\n会议音响*4",
+          "layout": "支持座椅自由摆放，\n上限容纳50人（有椅无桌）",
+          "area": "110㎡",
+          "image": "/assets/rooms/r25-多功能厅.png"
+        }
+      ]
+    },
+    {
+      "floor": "外滩FTC-7层",
+      "label": "7层",
+      "rooms": [
+        {
+          "id": "外滩FTC-7层-多功能厅-26",
+          "row": 26,
+          "name": "多功能厅",
+          "capacity": null,
+          "price": "8000",
+          "screen": "中庭主屏（3840mm*2240mm）*1",
+          "audio": "无线手持话筒*2，\n鹅颈麦*8，\n会议音响*4",
+          "layout": "支持桌椅自由摆放，\n标准容纳100人，\n上限容纳200人（有椅无桌）",
+          "area": "414㎡",
+          "image": "/assets/rooms/r26-多功能厅.png"
+        },
+        {
+          "id": "外滩FTC-7层-左侧空间-27",
+          "row": 27,
+          "name": "左侧空间",
+          "capacity": null,
+          "price": "9600",
+          "screen": "左副屏（3200*1920）*1\n（可独立播放）",
+          "audio": "",
+          "layout": "",
+          "area": null,
+          "image": "/assets/rooms/r27-左侧空间.png"
+        },
+        {
+          "id": "外滩FTC-7层-右侧空间-28",
+          "row": 28,
+          "name": "右侧空间",
+          "capacity": null,
+          "price": "8000",
+          "screen": "右副屏（3200*1920）*1\n（可独立播放）",
+          "audio": "",
+          "layout": "",
+          "area": null,
+          "image": "/assets/rooms/r28-右侧空间.png"
+        }
+      ]
+    },
+    {
+      "floor": "外滩FTC-顶楼",
+      "label": "顶楼",
+      "rooms": [
+        {
+          "id": "外滩FTC-顶楼-露台区-29",
+          "row": 29,
+          "name": "露台区",
+          "capacity": null,
+          "price": "40000",
+          "screen": "户外高清LED屏（4480mm*2560mm）*1，\n智能立屏-左屏（2560mm*960mm）*1、\n右屏（2560mm*960mm）*1，\n（左右两屏同步）",
+          "audio": "无线手持话筒*4，\n户外防水音响*8",
+          "layout": "支持桌椅自由摆放，\n标准容纳50人，\n上限容纳200人（无桌椅）",
+          "area": "365㎡屋顶花园式露台，叠加双层凌空观景台",
+          "image": "/assets/rooms/r29-露台区.png"
+        }
+      ]
+    }
+  ],
+  "extraPics": [
+    "/pic/3 楼金融墙(6:24)_副本.png",
+    "/pic/3楼高校墙(6:24)_副本.png",
+    "/pic/7 楼露台-合影处_副本.png",
+    "/pic/7 楼露台_副本.png"
+  ]
+}
