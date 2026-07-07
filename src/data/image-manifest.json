@@ -1,113 +1,113 @@
 {
   "roomByPrefix": {
     "r05": [
-      "/assets/rooms/r05-M-0201.png"
+      "/assets/rooms/r05-M-0201.webp"
     ],
     "r06": [
-      "/assets/rooms/r06-M-0203.png"
+      "/assets/rooms/r06-M-0203.webp"
     ],
     "r07": [
-      "/assets/rooms/r07-M-0301.png",
-      "/assets/rooms/r07-2-M-0301.png"
+      "/assets/rooms/r07-M-0301.webp",
+      "/assets/rooms/r07-2-M-0301.webp"
     ],
     "r08": [
-      "/assets/rooms/r08-胶囊会议室.png"
+      "/assets/rooms/r08-胶囊会议室.webp"
     ],
     "r09": [
-      "/assets/rooms/r09-M-0402.png"
+      "/assets/rooms/r09-M-0402.webp"
     ],
     "r10": [
-      "/assets/rooms/r10-M-0403.png"
+      "/assets/rooms/r10-M-0403.webp"
     ],
     "r11": [
-      "/assets/rooms/r11-胶囊会议室.png"
+      "/assets/rooms/r11-胶囊会议室.webp"
     ],
     "r12": [
-      "/assets/rooms/r12-M-0503.png"
+      "/assets/rooms/r12-M-0503.webp"
     ],
     "r13": [
-      "/assets/rooms/r13-M-0505.png"
+      "/assets/rooms/r13-M-0505.webp"
     ],
     "r14": [
-      "/assets/rooms/r14-胶囊会议室.png"
+      "/assets/rooms/r14-胶囊会议室.webp"
     ],
     "r15": [
-      "/assets/rooms/r15-M-0606.png",
-      "/assets/rooms/r15-2-M-0606.png"
+      "/assets/rooms/r15-M-0606.webp",
+      "/assets/rooms/r15-2-M-0606.webp"
     ],
     "r16": [
-      "/assets/rooms/r16-M-0607.png",
-      "/assets/rooms/r16-2-M-0607.png"
+      "/assets/rooms/r16-M-0607.webp",
+      "/assets/rooms/r16-2-M-0607.webp"
     ],
     "r21": [
-      "/assets/rooms/r21-202-路演中心.png",
-      "/assets/rooms/r21-2-202-路演中心.png",
-      "/assets/rooms/r21-3-202-路演中心.png"
+      "/assets/rooms/r21-202-路演中心.webp",
+      "/assets/rooms/r21-2-202-路演中心.webp",
+      "/assets/rooms/r21-3-202-路演中心.webp"
     ],
     "r22": [
-      "/assets/rooms/r22-零碳直播间.png"
+      "/assets/rooms/r22-零碳直播间.webp"
     ],
     "r23": [
-      "/assets/rooms/r23-胶囊直播间.png"
+      "/assets/rooms/r23-胶囊直播间.webp"
     ],
     "r24": [
-      "/assets/rooms/r24-胶囊直播间.png"
+      "/assets/rooms/r24-胶囊直播间.webp"
     ],
     "r25": [
-      "/assets/rooms/r25-多功能厅.png",
-      "/assets/rooms/r25-2-多功能厅.png"
+      "/assets/rooms/r25-多功能厅.webp",
+      "/assets/rooms/r25-2-多功能厅.webp"
     ],
     "r26": [
-      "/assets/rooms/r26-多功能厅.png",
-      "/assets/rooms/r26-2-多功能厅.png"
+      "/assets/rooms/r26-多功能厅.webp",
+      "/assets/rooms/r26-2-多功能厅.webp"
     ],
     "r27": [
-      "/assets/rooms/r27-左侧空间.png",
-      "/assets/rooms/r27-2-左侧空间.png"
+      "/assets/rooms/r27-左侧空间.webp",
+      "/assets/rooms/r27-2-左侧空间.webp"
     ],
     "r28": [
-      "/assets/rooms/r28-右侧空间.png",
-      "/assets/rooms/r28-2-右侧空间.png"
+      "/assets/rooms/r28-右侧空间.webp",
+      "/assets/rooms/r28-2-右侧空间.webp"
     ],
     "r29": [
-      "/assets/rooms/r29-露台区.png",
-      "/assets/rooms/r29-2-露台区.png",
-      "/assets/rooms/r29-3-露台区.png",
-      "/assets/rooms/r29-4-露台区.png"
+      "/assets/rooms/r29-露台区.webp",
+      "/assets/rooms/r29-2-露台区.webp",
+      "/assets/rooms/r29-3-露台区.webp",
+      "/assets/rooms/r29-4-露台区.webp"
     ]
   },
   "floorByLevel": {
     "2": [
-      "/assets/rooms/L2-1.png",
-      "/assets/rooms/L2-2.png",
-      "/assets/rooms/L2-3.png"
+      "/assets/rooms/L2-1.webp",
+      "/assets/rooms/L2-2.webp",
+      "/assets/rooms/L2-3.webp"
     ],
     "3": [
-      "/assets/rooms/L3-1.png",
-      "/assets/rooms/L3-2.png",
-      "/assets/rooms/L3-3.png",
-      "/assets/rooms/L3-4.png"
+      "/assets/rooms/L3-1.webp",
+      "/assets/rooms/L3-2.webp",
+      "/assets/rooms/L3-3.webp",
+      "/assets/rooms/L3-4.webp"
     ],
     "4": [
-      "/assets/rooms/L4-1.png",
-      "/assets/rooms/L4-2.png",
-      "/assets/rooms/L4-3.png",
-      "/assets/rooms/L4-4.png"
+      "/assets/rooms/L4-1.webp",
+      "/assets/rooms/L4-2.webp",
+      "/assets/rooms/L4-3.webp",
+      "/assets/rooms/L4-4.webp"
     ],
     "5": [
-      "/assets/rooms/L5-1.png",
-      "/assets/rooms/L5-2.png",
-      "/assets/rooms/L5-3.png",
-      "/assets/rooms/L5-4.png"
+      "/assets/rooms/L5-1.webp",
+      "/assets/rooms/L5-2.webp",
+      "/assets/rooms/L5-3.webp",
+      "/assets/rooms/L5-4.webp"
     ],
     "6": [
-      "/assets/rooms/L6-1.png"
+      "/assets/rooms/L6-1.webp"
     ],
     "8": [
-      "/assets/rooms/L8-1.png",
-      "/assets/rooms/L8-2.png",
-      "/assets/rooms/L8-3.png",
-      "/assets/rooms/L8-4.png"
+      "/assets/rooms/L8-1.webp",
+      "/assets/rooms/L8-2.webp",
+      "/assets/rooms/L8-3.webp",
+      "/assets/rooms/L8-4.webp"
     ]
   }
 }

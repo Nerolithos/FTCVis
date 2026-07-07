@@ -382,14 +382,26 @@ function App() {
               title="点击播放展示 PDF"
               aria-label="点击播放展示 PDF"
             >
-              <img className="hero-logo" src="/logo/logo3.png" alt="外滩 FTC 大 logo" />
+              <img
+                className="hero-logo"
+                src="/logo/logo3.png"
+                alt="外滩 FTC 大 logo"
+                loading="eager"
+                decoding="async"
+              />
             </button>
             <span className="hero-logo-hint">点击 Logo 播放展示 PDF</span>
           </div>
           <div>
             <h1>
               <span>外滩</span>
-              <img className="hero-title-logo" src="/logo/ftc-logo.png" alt="FTC" />
+              <img
+                className="hero-title-logo"
+                src="/logo/ftc-logo.png"
+                alt="FTC"
+                loading="eager"
+                decoding="async"
+              />
               <span>空间可视化平台</span>
             </h1>
             <p>{BUILDING_INTRO}</p>
@@ -493,7 +505,14 @@ function App() {
           {activeRoom ? (
             <>
               <div className="detail-photo-wrap">
-                <img src={detailPhoto} alt={`${activeRoom.name} 场地照片`} className="detail-photo" />
+                <img
+                  src={detailPhoto}
+                  alt={`${activeRoom.name} 场地照片`}
+                  className="detail-photo"
+                  loading="eager"
+                  decoding="async"
+                  fetchPriority="high"
+                />
                 <div className="photo-mask">
                   <span>
                     {activeFloor?.label}
@@ -544,7 +563,7 @@ function App() {
                     onClick={() => setZoomImage(pic)}
                     title="点击放大"
                   >
-                    <img src={pic} alt="外滩 FTC 楼层现场图片" />
+                    <img src={pic} alt="外滩 FTC 楼层现场图片" loading="lazy" decoding="async" />
                   </button>
                 ))}
               </div>
@@ -571,6 +590,8 @@ function App() {
             src={zoomImage}
             alt="楼层图片放大查看"
             className="lightbox-image"
+            loading="eager"
+            decoding="async"
             onClick={(event) => event.stopPropagation()}
           />
         </div>
